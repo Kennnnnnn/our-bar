@@ -14,8 +14,9 @@ html {
 
 body {
   /* background-image: url(); */
+  min-width: 350px;
   font-family: sans-serif;
-  padding: 20px;
+  padding: 0;
 }
 
 h1 {
