@@ -37,13 +37,12 @@ h1, h2, p {
 }
 
 .menu {
-  width: 80%;
+  max-width: 500px;
+  min-width: 275px;
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  max-width: 500px;
-  min-width: 275px;
 }
 
 img {
