@@ -55,6 +55,11 @@ img {
   margin-top:-25px;
 }
 
+.img_size {
+  width: 86px;
+  height: auto;
+}
+
 hr {
   height: 1px;
   background-color: black;
