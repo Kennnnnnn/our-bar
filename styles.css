@@ -63,7 +63,7 @@ h1, h2, p {
   background: rgb(222, 185, 135);
   padding: 0 10px;
 
-  font-family: "AiDianFeng";
+  font-family: "AiDianFeng", sans-serif;
   font-size: 20px;
 
   text-decoration: none;
@@ -100,7 +100,7 @@ h1, h2, p {
   
   text-decoration: none;
   
-  font-family: "AiDianFeng";
+  font-family: "AiDianFeng", sans-serif;
   font-size: 22px;
 }
 
@@ -153,7 +153,7 @@ h1, h2 {
   margin-top: 5px;
   margin-bottom: 5px;
   font-size: 18px;
-  font-family: "AiDianFeng", Impact, serif;
+  font-family: "AiDianFeng", sans-serif;
 }
 
 .add_br {
