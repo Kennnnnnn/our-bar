@@ -69,17 +69,9 @@ h1, h2, p {
   text-decoration: none;
 }
 
-.home_menu h2 {
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  transform: translate(0%, -50%);
-
-  background: rgb(222, 185, 135);
-  margin: 0;
-  padding: 0 10px;
-
-  /* font-size: 20px; */
+.home_menu a,
+.home_menu a:visited {
+  color: brown;
 }
 
 .menu_list {
@@ -112,9 +104,8 @@ h1, h2, p {
 }
 
 .menu_type .menu_type_img {
-  margin-top: 0px;
-  transform: translateX(55px);
   margin: 0;
+  transform: translateX(55px);
 }
 
 img {
